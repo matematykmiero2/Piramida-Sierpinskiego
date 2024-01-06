@@ -17,4 +17,9 @@ Instrukcja obsługi:
 
 -zmiana koloru światła na losowy przyciskiem "r" 
 
+-włączenie kolorów w piramidzie przyciskiem "c"
+
 ![image](https://github.com/matematykmiero2/Piramida-Sierpinskiego/assets/105746899/ebb687ed-a43a-4018-9386-1caa7036d568)
+
+![image](https://github.com/matematykmiero2/Piramida-Sierpinskiego/assets/105746899/835a1c85-34c2-4d14-bf8c-5485d5642aea)
+

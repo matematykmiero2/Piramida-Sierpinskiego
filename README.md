@@ -16,3 +16,5 @@ Instrukcja obsługi:
 -Przycisk "t" aktywuje tekstury, a przycisk "y" je wyłącza
 
 -zmiana koloru światła na losowy przyciskiem "r" 
+
+![image](https://github.com/matematykmiero2/Piramida-Sierpinskiego/assets/105746899/ebb687ed-a43a-4018-9386-1caa7036d568)

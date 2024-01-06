@@ -11,7 +11,7 @@ Instrukcja obsługi:
 
 -Poruszanie sferą (źródłem światła) przy pomocy strzałek w górę i w dół, można sferę oddalać i przybliżać przy pomocy klawiszy "9" i "9"
 
--Można aktywować drugą sferęklawiszem "=", oraz poruszać nią strzałkami w prawo i w lewo
+-Można aktywować drugą sferę klawiszem "=", oraz poruszać nią strzałkami w prawo i w lewo
 
 -Przycisk "t" aktywuje tekstury, a przycisk "y" je wyłącza
 
